@@ -367,14 +367,14 @@ img {
 
 .top-right-decoration {
 	position: absolute;
-	top: 0;
+	top: 10;
 	right: 0;
 	display: block;
 }
 
 .top-left-decoration {
 	position: absolute;
-	top: 0;
+	top: 10;
 	left: 0;
 	display: block;
 }
