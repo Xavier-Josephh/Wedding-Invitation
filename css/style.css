@@ -367,16 +367,14 @@ img {
 
 .top-right-decoration {
 	position: absolute;
-	top: 0;
-	right: 0;
-	display: block;
+    top:25%;
+    left:80%;
 }
 
 .top-left-decoration {
 	position: absolute;
-	top: 0;
-	left: 0;
-	display: block;
+    top:25%;
+    left:0%;
 }
 
 .title h1 {
