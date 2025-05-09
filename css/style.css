@@ -371,6 +371,12 @@ img {
     left:70%;
 }
 
+@media (max-width:768px) {
+	.top-right-decoration {
+		left:70%
+	}
+}
+
 .top-left-decoration {
 	position: absolute;
     top:20%;
