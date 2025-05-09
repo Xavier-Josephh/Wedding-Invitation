@@ -368,7 +368,7 @@ img {
 .top-right-decoration {
 	position: absolute;
     top:20%;
-    left:70%;
+    left:80%;
 }
 
 @media (max-width:768px) {
